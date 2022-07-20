@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there, I'm Kevin Grande 👋
+I'm a third-year student at the University of El Salvador pursuing a Computer Science and Engineering degree 💻
 
-<!--
-**kevinllo/kevinllo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+- 👨‍💻 JavaScript
+- ⚙️ React, Node, Express
+- 👁️ SASS, CSS, Styled Components
+- 💽 MySQL, SQL
 
-Here are some ideas to get you started:
+## Contact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [@kevinllojs](https://twitter.com/kevinllojs) on Twitter
+- [Kevin Grande](linkedin.com/in/kevin-grande-7b9b7221b) on Linkedin
