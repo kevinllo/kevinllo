@@ -10,4 +10,4 @@ I'm a third-year student at the University of El Salvador pursuing a Computer Sc
 ## Contact
 
 - [@kevinllojs](https://twitter.com/kevinllojs) on Twitter
-- [Kevin Grande](linkedin.com/in/kevin-grande-7b9b7221b) on Linkedin
+- [Kevin Grande](https://www.linkedin.com/in/kevin-grande-7b9b7221b/) on Linkedin
